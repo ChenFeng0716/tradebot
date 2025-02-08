@@ -15,11 +15,11 @@ learning predictions. This README file will guide you through setting up and usi
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/MrCuber/CryptoProfit.git
+   git clone https://github.com/ChenFeng0716/tradebot.git
    ```
 2. Navigate to the Project directory:
     ```bash
-    cd CryptoProfit
+    cd tradebot
     ```
 
 ## Usage
@@ -36,4 +36,3 @@ streamlit run app.py
 ## Warnings
 Do not use the app for real trading without thorough testing and understanding of the trading strategy.
 
-## revised by Chen, China

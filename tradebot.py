@@ -107,4 +107,3 @@ if __name__ == '__main__':
     if stop_bot:  # Stop the bot when the "Stop Bot" button is pressed
         output_area.text("Bot stopped.")
 
-# revised by Chen, 2025.1
